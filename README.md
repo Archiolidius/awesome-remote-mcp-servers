@@ -2253,7 +2253,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Plan and edit AI videos on canvases: script, storyboard, shots and final cut.
 - [LiveReacting](https://www.livereacting.com/mcp) `https://mcp.livereacting.com/mcp`
   [![LiveReacting MCP connector](https://glama.ai/mcp/connectors/com.livereacting/livereacting/badges/score.svg)](https://glama.ai/mcp/connectors/com.livereacting/livereacting)
-  🔐 - Run 24/7 live streams of pre-recorded videos, multistream to YouTube, Facebook and Twitch, schedule and track analytics.
+  🔐 - Run 24/7 live streams of pre-recorded videos, or stream a recorded video at a set time to YouTube, Facebook and more.
 - [MaxVideoAI](https://maxvideoai.com/mcp) `https://api.maxvideoai.com/mcp`
   [![MaxVideoAI MCP connector](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai/badges/score.svg)](https://glama.ai/mcp/connectors/com.maxvideoai/maxvideoai)
   🔐 - Compare AI video models, quote requests, approve paid generations, and recover results in a shared library.
